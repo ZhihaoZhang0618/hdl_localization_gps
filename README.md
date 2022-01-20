@@ -1,8 +1,7 @@
 # hdl_localization_gps
 add heading and fix messages on the base of
-\<a href="https://github.com/koide3/hdl_localization">hdl_localization</a>
-
-Good performance with GNSS RTK.
+ <a href="https://github.com/koide3/hdl_localization">hdl_localization</a>
+\Good performance with GNSS RTK.
 
 
 ## Load
