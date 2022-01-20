@@ -13,7 +13,7 @@ My addition:
 - ***/fix*** (sensor_msgs::NavSatFixConstPtr)
   -  lat lon high 
   -  I didn't use high, it didn't stable.
-- ***/heading *** (geometry_msgs/QuaternionStamped)
+  - ***/heading*** (geometry_msgs::QuaternionStamped)
   - heading
 
 ## Other 
