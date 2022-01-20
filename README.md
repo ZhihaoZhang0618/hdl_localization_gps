@@ -1,6 +1,7 @@
 # hdl_localization_gps
-add heading and fix messages on the base of hdl_localization
-\- <a href="https://github.com/koide3/hdl_localization">hdl_localization</a>
+add heading and fix messages on the base of
+\<a href="https://github.com/koide3/hdl_localization">hdl_localization</a>
+
 Good performance with GNSS RTK.
 
 
@@ -13,8 +14,8 @@ My addition:
 - ***/fix*** (sensor_msgs::NavSatFixConstPtr)
   -  lat lon high 
   -  I didn't use high, it didn't stable.
-  - ***/heading*** (geometry_msgs::QuaternionStamped)
-  - heading
+- ***/heading*** (geometry_msgs::QuaternionStamped)
+  - heading(NEU)
 
 ## Other 
 
