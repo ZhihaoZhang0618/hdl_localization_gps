@@ -8,7 +8,6 @@ Good performance with GNSS RTK.
 ## Load
 - ***/utm_file*** 
   - lat lon high heading when start mapping.
-    - heading:
     - I used Lio-sam to mapping, and turned useImuHeadingInitialization to false.In addition, I wrote a program to save lat lon high heading when start mapping.
     - N is zero, and chockwise is +.
 
